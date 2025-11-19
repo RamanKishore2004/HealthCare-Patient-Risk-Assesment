@@ -1,11 +1,12 @@
-**Project Description**
+**Project Title**
+
 -Hospital Patient Analytics & AI-Based Doctor Recommendation System
 
 **Overview**
 
---This project analyzes hospital patient data using Exploratory Data Analysis (EDA), Machine Learning, Unsupervised Anomaly Detection, and an LLM-style AI Doctor Recommendation Generator.
---The goal is to understand patient patterns, predict medical test outcomes, detect abnormal billing behaviors, and generate doctor-style medical recommendations automatically.
---This end-to-end system showcases real-world healthcare data processing, ML modeling, and applied AI.
+-This project analyzes hospital patient data using Exploratory Data Analysis (EDA), Machine Learning, Unsupervised Anomaly Detection, and an LLM-style AI Doctor Recommendation Generator.
+-The goal is to understand patient patterns, predict medical test outcomes, detect abnormal billing behaviors, and generate doctor-style medical recommendations automatically.
+-This end-to-end system showcases real-world healthcare data processing, ML modeling, and applied AI.
 
 **Tech Stack Used**
 
@@ -33,12 +34,16 @@ Evaluation Metrics
 
 **Machine Learning Techniques**
 
---Supervised Classification
+-Supervised Classification
 
---Unsupervised Anomaly Detection
+-Unsupervised Anomaly Detection
 
---Feature Engineering
+-Feature Engineering
 
-Risk Assessment Logic
+-Risk Assessment Logic
 
-AI Recommendation System (Rule-based + LLM-style)
+-AI Recommendation System (Rule-based + LLM-style)
+
+**Tools**
+-Kaggle
+-Github
